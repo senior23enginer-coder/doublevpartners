@@ -52,3 +52,19 @@ documentacion
 http://localhost:8080/swagger-ui/index.html
 http://localhost:8080/h2-console
 http://localhost:8080/v3/api-docs
+
+## Ficha del proyecto
+
+Backend Java de una prueba técnica de Double V Partners con proyecto Maven.
+
+### Contenido
+
+- [src](./src), [pom.xml](./pom.xml).
+
+### Uso
+
+Revisa [pom.xml](./pom.xml) para consultar la versión de Java, las dependencias y los módulos Maven. Configura los servicios externos por separado.
+
+### Origen
+
+- [Repositorio de origen](https://github.com/senior23enginer/doublevpartners)
